@@ -30,6 +30,7 @@
   },
   "dependencies": {
     "babel-preset-stage-1": "^6.5.0",
+    "immutable": "^3.7.6",
     "lodash": "^4.6.1",
     "react": "^0.14.8",
     "react-dom": "^0.14.8",
